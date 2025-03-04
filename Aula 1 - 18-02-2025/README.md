@@ -9,8 +9,3 @@ Estrutura do Repositório
   - Atividade: Música criada com o tema "Condomínios de alto padrão estilo europeu".
   - Detalhes adicionais podem ser encontrados nas anotações e no link para a música gerada.
 
-Observações
-- Documentação de cada aula com anotações e resultados das atividades.
-- Organizado para facilitar o acompanhamento do aprendizado.
-
----
