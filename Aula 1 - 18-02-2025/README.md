@@ -9,5 +9,8 @@ Estrutura do Repositório
   - Atividade: Música criada com o tema "Condomínios de alto padrão estilo europeu".
   - Detalhes adicionais podem ser encontrados nas anotações e no link para a música gerada.
 
-- Aula 2 - 25-02-2025:
-  - Tema: Criação de um chat bot
+Observações
+- Documentação de cada aula com anotações e resultados das atividades.
+- Organizado para facilitar o acompanhamento do aprendizado.
+
+---
