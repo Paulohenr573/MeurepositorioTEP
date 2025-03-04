@@ -1,0 +1,1 @@
+Create a sophisticated and engaging bossa nova song for a high-end real estate commercial promoting the exclusive condominium ‘Euro Garden Urban Park.’ The song should evoke feelings of elegance, tranquility, and luxury. The lyrics need to be in Portuguese.
