@@ -13,3 +13,4 @@ Configuração
    ```sh
    .venv\Scripts\activate  # Para Windows
    source .venv/bin/activate  # Para Linux/Mac
+   
