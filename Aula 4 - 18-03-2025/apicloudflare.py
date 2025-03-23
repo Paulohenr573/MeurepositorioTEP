@@ -12,7 +12,7 @@ HEADERS = {
 
 # Prompt para gerar a imagem
 DATA = {
-    "prompt": "A charming Shih Tzu, wearing a tiny pirate hat with a playful grin, joyfully runs across the deck of the Going Merry, the beloved ship of the Straw Hat Pirates. Her silky fur flows with every movement as she eagerly chases a group of fluttering butterflies that dance around the ship. The soft, golden light of the setting sun casts a warm glow on the ship's wooden deck, while the sparkling ocean stretches out beneath a vibrant, colorful sky. The butterflies, in shades of blue, yellow, and orange, flutter gracefully in the air, creating a magical atmosphere as the wind tousles her fur. The Going Merry, with its iconic figurehead and charming, weathered look, stands proudly in the background, adding to the adventure-filled scene. Her excitement is clear, with her tongue sticking out in pure joy and her eyes sparkling with happiness, as the ship sails onward toward new adventures, all captured in this picturesque, whimsical moment.",
+    "prompt": "The ghost light blue in the beach.",
     "width": 1024,
     "height": 1024,
     "num_inference_steps": 30
