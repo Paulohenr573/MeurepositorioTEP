@@ -294,22 +294,40 @@ Modelo: **llama-3.3-70b-specdec**
 ---
 1. Crie um prompt simples pedindo ao modelo para escrever uma carta de recomendação sem fornecer nenhum contexto adicional. Depois, revise o prompt adicionando detalhes sobre o destinatário e o propósito da carta. Como o contexto influenciou a qualidade da resposta?
 
-O contexto melhorou muito a resposta, sem o contexto ele criou uma carta de recomendação muito boa, mas para ser usada como base, similar a um curriculum em branco. Mas adicionando o contexto o a ferramenta criou uma carta de recomendação sensacional, adicionando todos as especificações do funcionário em questão, e mesmo sem deixar claro com exatidão qual a função à qual ele se candidatava o modelo fez uma análise e adicionou isso a carta.
+O contexto melhorou significativamente a qualidade da resposta. Sem o contexto, o modelo gerou uma carta de recomendação genérica, semelhante a um currículo em branco. No entanto, ao adicionar detalhes específicos, a ferramenta criou uma carta sensacional, incorporando as características do funcionário e inferindo, de maneira precisa, a função pretendida, mesmo sem informações exatas.
 
 2. Defina uma persona para um assistente virtual que auxilia clientes de uma livraria. Crie um prompt que utilize essa persona para responder clientes e indicar livros. Avalie como a definição de persona impacta a resposta do modelo.
 
-A definição da persona impacta muito nas diretrizes de como ela responde, deixando as respostas muito mais especificas e exatas sobre o assunto em questão. O modelo trabalha respondendo com muito entusiasmo e com assertividade  de conhecimento do assunto.
+A definição da persona impacta consideravelmente a qualidade das respostas, proporcionando um tom mais específico e assertivo. O modelo respondeu com entusiasmo e conhecimento profundo sobre os temas abordados, garantindo um atendimento envolvente e preciso.
 
 3. Escreva um prompt vago pedindo ao modelo para descrever um cenário futurista, sem dar detalhes. Depois, reescreva o prompt com instruções claras e específicas sobre o tipo de cenário e detalhes a serem incluídos. Avalie a importância da clareza nas instruções.
 
-O modelo descreve muito o que é pedido, com um nível imaginativo muito interessante. Mas quando o contexto e detalhes do que se deseja que ele imagine é adicionado o modelo trabalha muito melhor e imagina um cenário muito interessante que seria de se pensar colocar num modelo que gere vídeo, porque acredito que fique bem legal.
+O modelo apresentou um nível imaginativo impressionante, mas, ao fornecer mais contexto e detalhes, o cenário se tornou ainda mais interessante e imersivo. Isso mostrou que a clareza nas instruções potencializa a capacidade criativa e a profundidade da resposta.
 
-4. Desenvolva um prompt inicial para gerar uma breve biografia de uma figura histórica a ser definida por você. Analise a resposta e refine o prompt adicionando detalhes, informações adicionais e ajustando as instruções. Realize várias iterações e observe como cada refinamento melhora a precisão da resposta.
+4. Desenvolva um prompt inicial para gerar uma breve biografia de uma figura histórica a ser definida por você. Analise a resposta e refine o prompt adicionando detalhes, informações adicionais e ajustando as instruções. Realize várias interações e observe como cada refinamento melhora a precisão da resposta.
+
+O refinamento do prompt demonstrou que o modelo consegue manter a concisão e o estilo da biografia mesmo ao adicionar mais informações. Quanto mais específicos os detalhes fornecidos, mais preciso e completo se torna o resultado, com um aumento gradual no tamanho do texto.
+
 5. Desenvolva um prompt personalizado para um posto de gasolina. Use todas as técnicas discutidas neste capítulo para otimizar o prompt. Avalie a eficácia do prompt baseado na resposta do modelo e faça os ajustes necessários. Utilize o ChatGPT ou outro serviço à sua escolha para auxiliar na geração de um prompt interativo.
+
+O modelo demonstrou precisão ao seguir as diretrizes estabelecidas, mantendo a cortesia mesmo diante de provocações ou grosserias de clientes. Quando confrontado com alegações falsas ou leis inventadas, respondeu com clareza e precisão, orientando o atendimento para um funcionário humano quando necessário. Isso mostrou que o modelo é capaz de lidar com situações desafiadoras e complexas, preservando a qualidade no atendimento.
+
 6. Escreva dois prompts sobre o mesmo tema, mas com diferentes entonações: um formal e outro casual. Utilize a escala de entonação de 1 a 10.
+
+O modelo apresentou uma variação clara de tom entre os prompts. A entonação mais formal (próxima de 10) mostrou um estilo técnico e direto, enquanto a entonação mais casual trouxe um tom mais leve e descontraído. Essa variação reforça a capacidade do modelo de ajustar o tom de acordo com o contexto e o público-alvo.
+
 7. Crie dois prompts para gerar textos com diferentes sentimentos sobre o mesmo assunto. Utilize a escala de sentimento de 1 a 10.
+
+O modelo respondeu de maneira estruturada e adequada à escala emocional, mantendo um equilíbrio mesmo na intensidade máxima (10). Isso demonstra que o modelo preserva uma base de regras e coerência, mesmo quando solicitado a expressar emoções mais fortes. Essa característica reforça sua aplicabilidade em contextos que exigem controle emocional e precisão.
+
 8. Crie três prompts sobre o mesmo tema, cada um utilizando uma perspectiva diferente: primeira, segunda e terceira pessoa. Utilize a escala de perspectiva de 1 a 3.
+
+Os resultados foram interessantes, especialmente ao criar diálogos entre personagens fictícios e históricos. O modelo demonstrou precisão na interpretação dos estilos de fala e comportamento, como no caso de Victor Frankenstein e Gregory House discutindo ética humana. No entanto, ao incluir figuras históricas controversas, como Jack, o Estripador, o modelo evitou assumir perspectivas, demonstrando suas limitações éticas e regras para evitar a promoção de ideias negativas ou apologias.
+
 9. Escreva dois prompts que descrevam a mesma cena, mas com diferentes níveis de detalhe. Utilize a escala de nível de detalhe de 1 a 10.
+
+O modelo respondeu com clareza e precisão tanto na descrição mais simples (nível 1) quanto na mais detalhada (nível 10). No nível máximo, a riqueza de detalhes e a profundidade da descrição tornam a cena extremamente vívida, proporcionando uma experiência quase imersiva ao leitor.
+
 ## Conclusão ✅🎉
 
 A **engenharia de prompt** é crucial para usar LLMs eficazmente. A capacidade de criar e refinar prompts influencia diretamente a qualidade da saída da IA. Compreender configurações, dominar técnicas básicas e explorar metodologias avançadas (CoT, RAG, ReAct) capacita os usuários. Os exemplos e exercícios práticos são um ponto de partida valioso. Com o avanço da IA, a engenharia de prompt permanecerá essencial. A exploração contínua dos recursos atualizados garantirá que profissionais e estudantes estejam na vanguarda desta área dinâmica.
