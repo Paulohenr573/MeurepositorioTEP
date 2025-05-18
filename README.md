@@ -25,6 +25,13 @@ Este projeto permite o upload e reprodução de arquivos MP3 com controles intui
 
 📌 Próximos passos incluem melhorias na interface e aperfeiçoamento da tela de karaokê.  
 
+# 🖼️ Chat Bot de Geração de Imagens com Python e API Cloudflare
+
+Este projeto transforma texto em imagem via API da Cloudflare, rodando diretamente no terminal Python. As imagens geradas são salvas localmente e podem ser refinadas com novos prompts.
+
+🔹 **Tecnologias:** Python, API Cloudflare, Visual Studio Code  
+🔹 **Funcionalidades:** Geração de imagens, refinamento via prompts, armazenamento local  
+🔹 **Observação:** Excelente desempenho, mas apresenta desafios na renderização precisa de detalhes anatômicos.
 
 Observações
 - Documentação de cada aula com anotações e resultados das atividades.
