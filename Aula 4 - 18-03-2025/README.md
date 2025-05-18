@@ -1,3 +1,5 @@
+Aula 4 - 18-03-2025
+
 # 🖼️ Chat Bot de Geração de Imagens com Python e API Cloudflare
 
 ## Descrição
