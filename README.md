@@ -25,7 +25,7 @@ Este projeto permite o upload e reprodução de arquivos MP3 com controles intui
 
 📌 Próximos passos incluem melhorias na interface e aperfeiçoamento da tela de karaokê.  
 
-- Aula 4 - 18-03-2025
+- Aula 4 - 18-03-2025:
 Este projeto transforma texto em imagem via API da Cloudflare, rodando diretamente no terminal Python. As imagens geradas são salvas localmente e podem ser refinadas com novos prompts.
 
 🔹 **Tecnologias:** Python, API Cloudflare, Visual Studio Code  
